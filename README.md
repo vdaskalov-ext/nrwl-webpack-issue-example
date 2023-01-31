@@ -5,7 +5,7 @@
 ## Problems
 
 - code not minified/obfuscated
-- bunlde size **~4.4** times bigger than with the older nrwl version.
+- bunlde size with nrwl@15.6.3 (in "latest" branch of this repo) **~4.4** times bigger than with nrwl@15.4.5 (in the "main" branch of this repo).
 
 ### Further issues not included in the example:
 
