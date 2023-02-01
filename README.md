@@ -32,7 +32,7 @@ yarn build
 
 ## Branch latest
 
-- nrwl@15.6.3 (issue present from 15.4.6 up to 15.6.3)
+- nrwl@15.6.3 (issue present from 15.4.6 up to 15.7.0-alpha.2)
 - using webpackConfig "withNx" and "withReact"
 - size **~2.8MB**
 
